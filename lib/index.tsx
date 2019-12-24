@@ -1,5 +1,4 @@
 import * as React from 'react';
-import './index.less';
 
 export interface BanPressImgProps {
   src: any
