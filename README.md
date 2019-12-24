@@ -8,6 +8,7 @@
 ```
 
 import BanPressImg from 'react-prevent-longpress-save';
+import ImageUrl from '../../images/demo.png';
 
 <BanPressImg className="className" src={ImageUrl} />
 
